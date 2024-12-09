@@ -5,14 +5,6 @@ This program accepts a user-input message and outputs back an encrypted and decr
 ## Instructions
 
 ```
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
 What is the message you want to encrypt?: #type a message to input'i love cats'
 What is your keyword?: #type a keyword to input 'cat'
 
