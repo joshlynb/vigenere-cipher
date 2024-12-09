@@ -1,7 +1,6 @@
 # Vigenère Cipher
 
-Foobar is a Python library for dealing with word pluralization.
-
+This program accepts a user-input message and outputs back an encrypted and decrypted message using the Vigenère cipher method. 
 ## Installation
 
 
